@@ -21,5 +21,5 @@
 </style>
 
 <div class="footer">
-  <p>©Subha Paul 2018<br>Coded by <a herf="https://www.dibakardas.tk" target="_blank">Dibakar Das</a> </p>
+    <p>©Subha Paul<br>Coded by Dibakar Das </p>
 </div>
