@@ -1,7 +1,7 @@
 # Welcome
 [Music Downloads](music.md)
 
-Coded by [Dibakar Das](https://www.dibakardas.tk){:target="_blank"}
+
 
 
 
