@@ -20,5 +20,5 @@ Coded by [Dibakar Das](https://www.dibakardas.tk){:target="_blank"}
 </style>
 
 <div class="footer">
-    <p>©Subha Paul 2018<br>Coded by Dibakar Das </p>
+    <p>©Subha Paul 2018<br>Coded by <a href="https://www.dibakardas.tk" target="_blank">Dibakar Das</a> </p>
 </div>
